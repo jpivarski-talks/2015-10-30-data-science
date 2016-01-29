@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="519"
+   height="410"
+   sodipodi:docname="vectorfield2_annotated.svg"
+   inkscape:export-filename="/var/host/media/removable/SDCARD/Copy/TALKS/2015-10-30-data-science/PLOTS/vectorfield2_annotated.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="677"
+     inkscape:window-height="715"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="1.1512195"
+     inkscape:cx="433.72267"
+     inkscape:cy="275.10447"
+     inkscape:window-x="683"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3790"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1MendW"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1MendW"
+       style="overflow:visible;">
+      <path
+         id="path4227"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="stroke:#000dfa;stroke-width:1.0pt;fill:#000dfa;fill-rule:evenodd"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1MendWG"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1MendWG"
+       style="overflow:visible;">
+      <path
+         id="path3787"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#0049a9;stroke-width:1.0pt;fill:#0049a9"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+  </defs>
+  <image
+     width="519"
+     height="410"
+     xlink:href="file:///var/host/media/removable/SDCARD/Copy/TALKS/2015-10-30-data-science/PLOTS/vectorfield2.png"
+     id="image10"
+     x="0"
+     y="0" />
+  <path
+     style="stroke-linejoin:miter;enable-background:accumulate;marker-end:url(#Arrow1MendWG);stroke-opacity:1;color:#000000;stroke-dashoffset:0;visibility:visible;stroke:#0049a9;stroke-linecap:butt;stroke-miterlimit:4;marker:none;stroke-dasharray:none;overflow:visible;stroke-width:4.50000000000000000;display:inline;fill:none"
+     d="M 167.34147,345.68279 C 128.1975,281.36589 40.994637,138.87425 172.90601,102.16141 C 252.77209,83.393375 384.66769,74.763593 422.54644,164.12179 C 448.1929,253.01806 400.05617,273.43629 359.65927,301.12134"
+     id="path2997"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <rect
+     y="326.61017"
+     x="12.161017"
+     height="39.088982"
+     width="128.55933"
+     id="rect4289"
+     style="color:#000000;fill:#ffffff;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:1;fill-rule:nonzero" />
+  <text
+     sodipodi:linespacing="105%"
+     id="text4240"
+     y="354.05759"
+     x="76.359581"
+     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:104.99999523000001034%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0049a9;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold;stroke-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+     xml:space="preserve"><tspan
+       y="354.05759"
+       x="76.359581"
+       id="tspan4242"
+       sodipodi:role="line">physics</tspan></text>
+  <rect
+     y="19.110168"
+     x="320.52966"
+     height="64.279663"
+     width="153.75"
+     id="rect4268"
+     style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <text
+     sodipodi:linespacing="105%"
+     id="text4244"
+     y="45.165104"
+     x="397.14496"
+     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:104.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0049a9;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+     xml:space="preserve"><tspan
+       id="tspan4258"
+       y="45.165104"
+       x="397.14496"
+       sodipodi:role="line">data</tspan><tspan
+       id="tspan4264"
+       y="74.565102"
+       x="397.14496"
+       sodipodi:role="line">analytics</tspan></text>
+  <rect
+     y="316.18643"
+     x="331.82202"
+     height="67.754234"
+     width="152.88136"
+     id="rect4281"
+     style="color:#000000;fill:#ffffff;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;fill-opacity:1;fill-rule:nonzero" />
+  <text
+     sodipodi:linespacing="105%"
+     id="text4250"
+     y="343.86398"
+     x="408.14984"
+     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:104.99999523000001034%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0049a9;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:Sans Bold"
+     xml:space="preserve"><tspan
+       id="tspan4254"
+       y="343.86398"
+       x="408.14984"
+       sodipodi:role="line">analytic</tspan><tspan
+       id="tspan4266"
+       y="373.26398"
+       x="408.14984"
+       sodipodi:role="line">software</tspan></text>
+</svg>
